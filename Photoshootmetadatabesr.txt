@@ -1,0 +1,203 @@
+Master Input-Image-Only Production Prompt — 10-Second High-Speed Photogrammetry Sequence (60fps, 8K)
+
+Ultra-detailed 8K 60fps photogrammetry studio turntable capture of all ten gemstone and mineral variants of the three-piece Aadhi Vinayagar sculpture ensemble—comprising the central seated Lord Ganesha flanked on the left by a seated Mooshika and on the right by a serpent-entwined Linga pillar—strictly anchored to and derived exclusively from the provided front-view input reference image(s) ([INPUT_IMAGE_01] through [INPUT_IMAGE_10], or the designated single-ensemble front reference image per variant), with zero external additions, zero added props, zero invented sculptural features, zero unrequested accessories, and zero external visual elements. Every anatomical proportion, facial contour, carved relief, ornament, lotus cushion, flanking figure posture, base shape, mineral color zone, and bilateral symmetry line visible in the input image is preserved identically against a simple, unadorned, plain matte stone background and plain circular stone turntable plinth across an unbroken 10.00-second sequence (600 frames at 60fps; exactly 1.00 second / 60 frames per variant).
+
+1. Strict "Refer Only to Input Image — Do Not Add Externally" Governance Protocol
+
+1.1 Zero External Addition & Exclusive Reference-Image Lock
+
+100% Input-Image Sovereignty: Every geometric form, carved line, surface texture, base cushion, metallic accent, and mineral color distribution in the output must originate solely from the corresponding front-elevation input image. Do not add any external objects, extra jewelry, unshown weapons or attributes, extra lotus tiers, external pedestals, decorative borders, background architecture, foliage, smoke, particles, floating dust, or environmental props not explicitly visible in the input photograph.
+
+No Unrequested Material or Color Substitution: Do not inject external colors, unshown gold/silver inlays, or altered cushion hues that contradict the input image. Where the input photograph depicts specific metallic accents, contrasting lotus cushions, or natural mineral color boundaries, reproduce only those exact input-image colors and boundaries with zero cross-contamination between variants.
+
+Strict No-Mix Isolation Between Variants: Each 1.00-second window references only its own assigned input image ([INPUT_IMAGE_01] for Variant 1 through [INPUT_IMAGE_10] for Variant 10). Never blend, average, morph, or transfer textures, mineral patterns, inclusions, or geometry from one variant's reference image into another.
+
+Rigid Solid-Body Non-Deforming Kinematics: Treat each three-piece ensemble as a rigid, solid carved stone assembly. Strictly zero organic morphing, zero melting, zero breathing, zero mesh warping, zero shifting of limb angles, and zero alteration of facial expression or carved micro-details during axial rotation or orbital circulation.
+
+1.2 Exact Extraction of Intricate Front-Image Sculptural Details
+
+Every intricate carving detail visible in the front-only input photograph is locked as an immutable geometric and textural constraint across all 60 frames of its variant window:
+
+Central Seated Lord Ganesha: Preserve the exact silhouette, height, and carved relief tiers of the headdress/crown exactly as depicted in the input image; the exact outward flare, thickness, and inner ear folds of both ears; the exact forehead markings, brow contour, eyelids, and serene gaze; the exact curvature, taper, and tip placement of the trunk reaching toward the modak held in the hand as shown in the input image; the exact tusk geometry (preserving any asymmetry or intact/broken tusk profile exactly as photographed); the exact neck ornaments, sacred thread path, chest and waist bands, armlets, wristlets, seated leg posture, garment folds, and anklets visible in the reference photo; and every individual carved petal rib and contour of the lotus seat beneath the figure.
+
+Left Flanking Mooshika: Preserve the exact relative scale, lateral spacing from the central lotus cushion, seated posture, head angle, ear shape, whisker engravings, forepaw placement, back arch, and tail curve exactly as shown on the left side of the input photograph, without adding any external collar, saddle, or prop not present in the photo.
+
+Right Flanking Serpent-Entwined Linga Pillar: Preserve the exact height, cylindrical diameter, and domed apex of the Linga pillar on the right side of the input photograph, along with the exact spiral path, thickness, scale engravings, and hooded canopy geometry of the entwined serpent exactly as captured in the input image.
+
+1.3 Bilateral Symmetry & Coherent 360^\circ Side/Rear Extrapolation from Front-Only Input
+
+Because the input photograph supplies only the front view (0^\circ) of the sculpture ensemble, the unseen 90^\circ right profile, 180^\circ rear elevation, and 270^\circ left profile must be reconstructed strictly through geometric mirror-symmetry and crystallographic continuity derived solely from the front image—never by inventing external back ornaments:
+
+Strict Bilateral Mirror-Symmetry: All bilaterally symmetric structures visible in the front image—crown tiers, ear silhouettes, shoulder curves, arm ornaments, lotus petal rings, and the Linga pillar's cylindrical symmetry—are mirrored accurately across the left-right sagittal plane and carried cleanly onto the rear half without distortion or asymmetry drift.
+
+Minimalist, Faithful Rear Relief: The 180^\circ rear elevation resolves only the natural anatomical and sculptural back of what is established on the front: the smooth rounded posterior of the ears, the rear continuation of the tiered crown, the back of the torso and diagonal sacred thread, the rear seated drapery folds, the continuous 360^\circ ring of carved lotus petals, the rounded back of the seated Mooshika, and the continuous helical serpent coils wrapping around the rear of the cylindrical Linga pillar. No unrequested rear carvings, inscriptions, or external back-plates may be added.
+
+Continuous Mineral & Inclusion Wrapping: Natural mineral grain, chatoyant fiber orientation, thin-film iridescent banding, dendritic inclusions, opalescent diffraction cells, and polychrome crystal zoning visible on the front surface wrap continuously and naturally around the sides and rear in strict physical consistency with each mineral's internal crystal structure.
+
+1.4 Simple Plain Stone Background & Matching Plain Stone Plinth
+
+Unadorned Plain Stone Backdrop: The entire scene is set exclusively against a clean, seamless, plain matte architectural stone wall/cyclorama (neutral mid-tone limestone/basalt gray, \text{L}^* \approx 52, uniform fine natural stone grain, completely free of external architectural elements, mouldings, patterns, gradients, studio equipment, or visual clutter).
+
+Plain Circular Stone Turntable Plinth: Each three-piece ensemble rests squarely centered atop a simple, unadorned, cylindrical matte-stone turntable plinth matching the neutral plain stone aesthetic, with a clean beveled upper edge and a soft, physically grounded ambient-occlusion contact shadow directly beneath the sculpture base and plinth rim.
+
+2. High-Speed 10.0-Second Linear-to-Circular Array & Dual-Axis Turntable Kinematics
+
+2.1 Master Sequence Timing & Exact Frame Allocation (10.00s @ 60fps = 600 Frames)
+
+Total Duration & Frame Rate: 10.00\text{ seconds} at 60.00\text{ fps} (600\text{ discrete frames}, 16.67\text{ ms} per frame).
+
+Exact 1.00-Second (60-Frame) Allocation per Variant:
+
+Variant 1 (00.00s – 01.00s | Frames 001 – 060): Golden Tiger's Eye ([INPUT_IMAGE_01])
+
+Variant 2 (01.00s – 02.00s | Frames 061 – 120): Rainbow Obsidian ([INPUT_IMAGE_02])
+
+Variant 3 (02.00s – 03.00s | Frames 121 – 180): Moss Agate ([INPUT_IMAGE_03])
+
+Variant 4 (03.00s – 04.00s | Frames 181 – 240): Black Matrix Opal ([INPUT_IMAGE_04])
+
+Variant 5 (04.00s – 05.00s | Frames 241 – 300): Polychrome Tourmaline ([INPUT_IMAGE_05])
+
+Variant 6 (05.00s – 06.00s | Frames 301 – 360): Rainbow Obsidian & Golden Tiger's Eye Composite ([INPUT_IMAGE_06])
+
+Variant 7 (06.00s – 07.00s | Frames 361 – 420): Translucent Crystal Jelly Opal ([INPUT_IMAGE_07])
+
+Variant 8 (07.00s – 08.00s | Frames 421 – 480): Star Sapphire & Moss Agate Composite ([INPUT_IMAGE_08])
+
+Variant 9 (08.00s – 09.00s | Frames 481 – 540): Swirling Boulder Opal Matrix ([INPUT_IMAGE_09])
+
+Variant 10 (09.00s – 10.00s | Frames 541 – 600): Tri-Mineral Composite ([INPUT_IMAGE_10])
+
+2.2 Synchronized Dual-Axis Motion (Vertical-Axis Spin + Linear-to-Circular Circulation)
+
+Constant-Velocity Axial Rotation (Y-Axis Spin): Each circular stone plinth rotates clockwise around its own vertical center axis at an exact, constant angular velocity of \omega = 360^\circ/\text{second} (6.0^\circ\text{ per frame}), with zero angular acceleration or deceleration (\alpha = 0\text{ rad/s}^2)—no ease-in, no ease-out, no hesitation, no stepping, and no reverse oscillation:
+
+Frame 00 (+0.00s of window): Exact 0^\circ front elevation locked identically to the input reference photograph.
+
+Frame 15 (+0.25s of window): Exact 90^\circ right-side profile (Linga pillar foregrounded on the near side, central deity in crisp right profile).
+
+Frame 30 (+0.50s of window): Exact 180^\circ rear elevation (symmetric back view of crown, ears, torso, lotus ring, Mooshika, and coiled Linga pillar).
+
+Frame 45 (+0.75s of window): Exact 270^\circ left-side profile (Mooshika foregrounded on the near side, central deity in crisp left profile).
+
+Frame 60 (+1.00s of window): Exact 360^\circ return to front elevation as the next ensemble arrives at dead-center hero alignment.
+
+Linear-to-Circular Array Circulation: All ten ensembles are mounted in sequence along a precision linear-to-circular motorized carousel track. Across the visible camera foreground, the track forms a straight linear presentation plane perpendicular to the camera lens axis so adjacent ensembles align cleanly without perspective distortion, before curving smoothly along a constant-radius circular return arc behind the plain stone backdrop. Every variant glides in smoothly from the right, passes squarely through the dead-center hero focal point during its 1.00-second 360^\circ spin, and exits smoothly to the left at constant tangential velocity.
+
+Locked Motion-Control Camera & High-Speed Global Shutter: Static cinema camera locked on a heavy motion-control head at eye level with the central deity's forehead, equipped with an 85\text{ mm} apochromatic macro-telephoto prime lens at f/11 for complete front-to-back depth of field across all three pieces, and a 1/2000\text{s} electronic global shutter eliminating rotational motion blur so every micro-chisel mark and specular reflection stays razor-sharp on every frame.
+
+3. Off-Camera Gemological Studio Lighting & Optical Metadata Calibration
+
+All light sources remain strictly off-camera so no lighting hardware, reflections of softboxes, or external studio rigs appear in frame. The off-camera five-zone gemological lighting dome is calibrated exclusively to reveal the authentic physical optics of the gemstones depicted in each input image:
+
+Overhead Diffused Softbox Canopy (5600\text{K}, CRI 98+): Smooth, broad overhead diffusion producing clean tonal roll-off across curved stone domes, shoulders, belly, and serpent hood without harsh specular blowout.
+
+Dual Collimated Point-Source Pin-Lights (\pm 22^\circ off camera axis, 5800\text{K}): Precision narrow-beam optical spots calibrated to activate physically accurate mineral phenomena as each ensemble spins:
+
+Sweeping uniaxial cat's-eye chatoyant light bands across Golden Tiger's Eye and Blue Hawk's Eye.
+
+Sharp 6-rayed silver-white rutile asterism stars gliding across Star Sapphire.
+
+High-contrast spectral Bragg diffraction flashes inside Black Matrix Opal, Crystal Jelly Opal, and Swirling Boulder Opal.
+
+Concentric thin-film nanorod interference halos on Rainbow Obsidian.
+
+Dual Cross-Polarized Vertical Rim Strips (5400\text{K}): Symmetrical left and right edge-rim lights delineating the crisp outer silhouettes of the Mooshika, central deity, and Linga pillar against the plain stone background.
+
+Low-Angle Neutral Fill Bounce: Subtle upward fill preserving carved relief detail beneath the trunk, modak, lotus petals, and seated folds without washing out deep mineral body colors.
+
+Ground Contact Ambient Occlusion: Soft, natural contact shadow directly under the lotus cushion and plain stone plinth.
+
+4. Exhaustive Second-by-Second Variant Specification (00.00s – 10.00s)
+
+[00.00s – 01.00s | Frames 001–060] Variant 1: Golden Tiger's Eye ([INPUT_IMAGE_01])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_01]. Every sculptural contour, crown tier, tusk shape, forehead tilak, sacred thread, jewelry line, lotus cushion hue, Mooshika posture, and Linga serpent coil shown in [INPUT_IMAGE_01] is preserved identically without adding any external details or altering colors.
+
+Optical & Mineral Physics: Polished chatoyant Golden Tiger's Eye (n = 1.544\text{–}1.553) with parallel oxidized crocidolite quartz fibers and anisotropic specular roughness (0.08 parallel / 0.32 perpendicular), producing luminous honey-gold (585\text{ nm}) and deep umber-brown silky bands.
+
+360^\circ Rotational Behavior: As the ensemble spins clockwise at 6^\circ/frame, razor-sharp golden cat's-eye bands sweep smoothly across the central Ganesha's belly, chest, forehead, and trunk, across the arched back of the left-flanking Golden Tiger's Eye Mooshika, and across the right-flanking Golden Tiger's Eye serpent-entwined Linga pillar, while preserving the exact metallic accents and lotus base color recorded in [INPUT_IMAGE_01].
+
+[01.00s – 02.00s | Frames 061–120] Variant 2: Rainbow Obsidian ([INPUT_IMAGE_02])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_02]. Preserves every carved micro-detail, metallic accent, lotus cushion color, and bilateral symmetry line from [INPUT_IMAGE_02] with zero external additions and zero carryover from Variant 1.
+
+Optical & Mineral Physics: Mirror-finished jet-black volcanic glass Rainbow Obsidian (n = 1.480\text{–}1.510, surface roughness 0.03) with oriented microscopic feldspar and magnetite nanorod layers generating thin-film interference halos of spectral violet (410\text{ nm}), magenta, teal (490\text{ nm}), and emerald green (530\text{ nm}).
+
+360^\circ Rotational Behavior: Concentric iridescent bands of violet, magenta, teal, and emerald glide fluidly across the jet-black contours of the central Ganesha, the left-flanking Mooshika, and the right-flanking serpent-entwined Linga pillar throughout the full 360^\circ rotation, contrasted cleanly by the exact metallic detailing and lotus base shown in [INPUT_IMAGE_02].
+
+[02.00s – 03.00s | Frames 121–180] Variant 3: Moss Agate ([INPUT_IMAGE_03])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_03]. Locks all sculptural proportions, fine engravings, lotus cushion coloration, and flanking figure details strictly to [INPUT_IMAGE_03] without external additions.
+
+Optical & Mineral Physics: Semi-translucent milky-blue chalcedony Moss Agate (n = 1.530\text{–}1.540, vitreous roughness 0.06, subsurface scattering radius 6.0\text{ mm}) containing dense three-dimensional forest-green dendritic chlorite moss inclusions and delicate rust-brown iron-oxide mineral veins.
+
+360^\circ Rotational Behavior: Soft studio backlighting and rim illumination reveal the internal depth of the green dendritic moss networks and subtle rust-brown veins suspended inside the milky-blue translucent stone across all three figures from front, 90^\circ right, 180^\circ rear, and 270^\circ left angles, seated over the exact lotus cushion depicted in [INPUT_IMAGE_03].
+
+[03.00s – 04.00s | Frames 181–240] Variant 4: Black Matrix Opal ([INPUT_IMAGE_04])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_04]. Preserves every micro-chisel mark, jewelry line, lotus petal rib, and color zone from [INPUT_IMAGE_04] with zero external additions or morphing.
+
+Optical & Mineral Physics: Jet-black N1 body-tone Matrix Opal (n = 1.440\text{–}1.460, roughness 0.04) packed with three-dimensional silica-sphere diffraction lattices producing sharp angular mosaic and pinfire flashes of fiery red (650\text{ nm}), emerald green (530\text{ nm}), cobalt blue (460\text{ nm}), and vivid orange (605\text{ nm}).
+
+360^\circ Rotational Behavior: Individual opal diffraction cells strobe crisply through pure spectral red, green, blue, and orange across the velvety black matrix of the central Ganesha, left Mooshika, and right serpent-entwined Linga pillar as the angle changes at 6^\circ/frame, framed by the exact metallic accents and lotus base visible in [INPUT_IMAGE_04].
+
+[04.00s – 05.00s | Frames 241–300] Variant 5: Polychrome Tourmaline ([INPUT_IMAGE_05])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_05]. Strictly preserves the front photograph's sculptural anatomy, color-zoning boundary, metallic accents, and lotus cushion without external additions.
+
+Optical & Mineral Physics: Crystalline polychrome elbaite Tourmaline (n_\omega = 1.644, n_\varepsilon = 1.624, high vitreous luster roughness 0.04) transitioning smoothly from rich emerald green across the upper crown, face, and torso into fiery orange-red mineral zoning and natural crystal veining across the crossed legs and lower base.
+
+360^\circ Rotational Behavior: High-luster vitreous reflections sweep across the emerald-green upper zone and fiery orange-red lower zone of the central deity and flanking Mooshika and Linga pillar across all 360^\circ angles, preserving every internal crystal veil and surface bevel from [INPUT_IMAGE_05].
+
+[05.00s – 06.00s | Frames 301–360] Variant 6: Rainbow Obsidian & Golden Tiger's Eye Composite ([INPUT_IMAGE_06])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_06]. Enforces the exact dual-mineral separation shown in [INPUT_IMAGE_06] with zero cross-blending between central and flanking carvings and zero external additions.
+
+Optical & Mineral Physics: Central deity in mirror-polished jet-black Rainbow Obsidian (n = 1.49, roughness 0.03) flanked on both left and right by chatoyant Golden Tiger's Eye (n = 1.544\text{–}1.553, anisotropic roughness 0.08/0.32).
+
+360^\circ Rotational Behavior: Concentric violet, magenta, teal, and emerald interference bands glide across the dark Rainbow Obsidian central Ganesha (with the exact metallic detailing and lotus cushion from [INPUT_IMAGE_06]), while luminous honey-gold cat's-eye bands sweep simultaneously across the left Golden Tiger's Eye Mooshika and right Golden Tiger's Eye Linga pillar.
+
+[06.00s – 07.00s | Frames 361–420] Variant 7: Translucent Crystal Jelly Opal ([INPUT_IMAGE_07])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_07]. Preserves all intricate sculptural details, internal fire intensity, and lotus base coloration from [INPUT_IMAGE_07] with zero external additions.
+
+Optical & Mineral Physics: Semi-transparent bluish-clear hydrophane Crystal Jelly Opal (n = 1.450, optical transmission 78\%, volumetric subsurface scattering radius 12.0\text{ mm}, roughness 0.04) glowing internally with floating sheets of full-spectrum rainbow diffraction fire.
+
+360^\circ Rotational Behavior: Studio light penetrates the semi-transparent bluish-clear bodies of all three figures, igniting three-dimensional internal ribbons of violet, cyan, emerald, gold, and crimson fire across the central Ganesha, left Mooshika, and right serpent-entwined Linga pillar atop the lotus cushion from [INPUT_IMAGE_07].
+
+[07.00s – 08.00s | Frames 421–480] Variant 8: Star Sapphire & Moss Agate Composite ([INPUT_IMAGE_08])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_08]. Preserves the exact dual-mineral partitioning, forehead star position, lotus cushion hue, and carved micro-details from [INPUT_IMAGE_08] with zero external additions.
+
+Optical & Mineral Physics: Monochrome deep royal-blue corundum Star Sapphire central deity (n_\omega = 1.770, n_\varepsilon = 1.762, roughness 0.04, oriented microscopic rutile silk needles) flanked on both left and right by semi-translucent milky-blue Moss Agate (n = 1.535, SSS radius 6.0\text{ mm}).
+
+360^\circ Rotational Behavior: A razor-sharp, six-rayed silver-white asterism star gleams on the forehead of the royal-blue Star Sapphire Ganesha and glides dynamically across its curved contours as the plinth turns 360^\circ, flanked symmetrically by the green dendritic Moss Agate Mooshika on the left and Moss Agate Linga pillar on the right.
+
+[08.00s – 09.00s | Frames 481–540] Variant 9: Swirling Boulder Opal Matrix ([INPUT_IMAGE_09])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_09]. Preserves every fluid opalescent ribbon path, sculptural bevel, metallic accent, and lotus cushion detail from [INPUT_IMAGE_09] with zero external additions.
+
+Optical & Mineral Physics: Glossy dark Queensland ironstone Boulder Opal matrix (n = 1.450 in opal veins, roughness 0.05) webbed with sinuous, painterly ribbons of fiery orange, molten gold, emerald green, and electric cyan-blue iridescence.
+
+360^\circ Rotational Behavior: Fluid, high-iridescence bands of orange, gold, green, and electric blue shift intensely across the glossy dark ironstone matrix of the central Ganesha, left Mooshika, and right serpent-entwined Linga pillar throughout the 360^\circ rotation, accented strictly as shown in [INPUT_IMAGE_09].
+
+[09.00s – 10.00s | Frames 541–600] Variant 10: Tri-Mineral Composite ([INPUT_IMAGE_10])
+
+Strict Input-Image Lock: Driven solely by [INPUT_IMAGE_10]. Enforces the exact four-zone mineral separation depicted in [INPUT_IMAGE_10] with zero material bleed and zero external additions.
+
+Optical & Mineral Physics: Left Mooshika in chatoyant Golden Tiger's Eye (n = 1.544\text{–}1.553); central Ganesha combining an iridescent jet-black Rainbow Obsidian head (n = 1.49) with a monochrome deep royal-blue 6-rayed Star Sapphire torso (n = 1.770) and matching royal-blue lotus base; right serpent-entwined Linga pillar in chatoyant Blue Hawk's Eye (n = 1.544).
+
+360^\circ Rotational Behavior: As the ensemble completes its 360^\circ turn, honey-gold chatoyancy sweeps across the left Tiger's Eye Mooshika, rainbow thin-film iridescence glides across the central deity's Obsidian head above a sharp 6-rayed white asterism star on the royal-blue Star Sapphire torso and blue lotus base, and a bright cyan-silver cat's-eye band sweeps across the right Blue Hawk's Eye Linga pillar.
+
+5. Gemological Optical Metadata Reference Table
+
+Window (10s)FramesVariant NamePrimary Mineral(s)Refractive Index (n)Optical Phenomenon & Peak WavelengthsSurface & Subsurface Shader SpecBase & Metallic Accents (Per Input Image)00.0s–01.0s001–060Variant 1Golden Tiger's Eye1.544\text{–}1.553Uniaxial silky chatoyancy; honey-gold (585\text{ nm}) & umber bandsAnisotropic roughness 0.08\parallel / 0.32\perp; opaqueExact input-image accents & lotus base01.0s–02.0s061–120Variant 2Rainbow Obsidian1.480\text{–}1.510Thin-film nanorod interference; violet, magenta, teal, emeraldMirror glass roughness 0.03; jet-black absorptionExact input-image accents & lotus base02.0s–03.0s121–180Variant 3Moss Agate1.530\text{–}1.540Volumetric SSS with green dendritic moss & rust veinsMilky-blue chalcedony SSS 6\text{ mm}; roughness 0.06Exact input-image lotus base03.0s–04.0s181–240Variant 4Black Matrix Opal1.440\text{–}1.4603D silica Bragg diffraction; red, green, cobalt, orange mosaicN1 black body; sharp angular color cells; roughness 0.04Exact input-image accents & lotus base04.0s–05.0s241–300Variant 5Polychrome Tourmaline1.624\text{–}1.644Dichroic emerald-green to fiery orange-red crystal zoningHigh vitreous luster roughness 0.04; internal crystal veilExact input-image accents & lotus base05.0s–06.0s301–360Variant 6Rainbow Obsidian + Golden Tiger's Eye1.49 / 1.55Iridescent black center + golden chatoyant left/right flanksDual-shader isolation: thin-film sheen vs. cat's-eyeExact input-image center accents & lotus base06.0s–07.0s361–420Variant 7Translucent Crystal Jelly Opal1.450Deep internal volumetric full-spectrum rainbow fireTransmission 78\%, SSS 12\text{ mm}, bluish-clear hydrophaneExact input-image lotus base07.0s–08.0s421–480Variant 8Star Sapphire + Moss Agate1.770 / 1.535Sharp 6-ray white rutile star on royal blue + green moss flanksHigh-index corundum (0.04); forehead-centered asterismExact input-image lotus base08.0s–09.0s481–540Variant 9Swirling Boulder Opal Matrix1.450Fluid painterly ribbons of orange, gold, emerald, electric cyanGlossy dark ironstone (0.05) with undulating opal seamsExact input-image accents & lotus base09.0s–10.0s541–600Variant 10Tiger's Eye + Obsidian/Sapphire + Hawk's Eye1.55 / 1.49+1.77 / 1.544Gold chatoyancy, iridescence, 6-ray star, cyan-blue chatoyancyStrict 4-zone mineral boundary isolation; exact IOR per partExact input-image royal-blue lotus & accents 
+
+6. Strict Photogrammetry & Zero-External-Addition Negative Constraints
+
+Zero External Additions: Strictly no unrequested props, no extra ornaments, no invented carvings, no altered base or garment colors, no visible studio light stands/modifiers, no background architecture, no particles/dust/smoke, and no external visual elements beyond what is present in the input image(s) and the plain matte stone backdrop/plinth.
+
+Zero Cross-Contamination: Strictly zero mixing of minerals, shaders, or sculptural traits across the ten variants.
+
+Zero Visual or Geometric Artifacts: Strictly zero morphing, zero mesh warping, zero bilateral symmetry errors, zero 3D scan holes, zero missing polygons, zero non-manifold edges, zero diagonal stair-stepping or aliasing, zero temporal flicker, zero rotational motion blur or ghosting, zero chromatic aberration, and zero overlaid text, timestamps, labels, or watermarks.
